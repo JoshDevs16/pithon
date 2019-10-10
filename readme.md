@@ -1,1 +1,3 @@
-Hello! This is my first project, so please be patient.
+# THIS BOT IS AVALIBLE FOR YOUR USE, HOWEVER: 
+
+You cannot claim ANY of its code as your OWN.
